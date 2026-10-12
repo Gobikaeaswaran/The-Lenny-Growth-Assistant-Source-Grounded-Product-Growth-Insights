@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Synthetic Demo: Finding an Initial Customer Segment",
+    "speaker": "Demo product founder",
+    "timestamp": "00:12:40",
+    "url": "https://example.invalid/demo/segment",
+    "content": "This synthetic sample describes a fictional product founder discussing how a small software team found an initial customer segment. The team began with a broad idea for project planning, then interviewed independent design studios. They learned that handoffs between client approval and production were the most painful workflow. Rather than build a large suite, the founders focused on a narrow approval-tracking tool. The first users came from direct conversations and referrals. The team measured repeated weekly use and whether customers invited a collaborator. When interviewees described a recent workaround in detail, that was a stronger signal than polite enthusiasm. The team kept a list of assumptions, tested the riskiest one first, and reviewed evidence every Friday. This example is fabricated solely for local software demonstrations and is not a real podcast transcript or quotation."
+  },
+  {
+    "title": "Synthetic Demo: Measuring a Sustainable Growth Loop",
+    "speaker": "Demo growth lead",
+    "timestamp": "00:08:15",
+    "url": "https://example.invalid/demo/growth-loop",
+    "content": "This synthetic sample follows a fictional growth lead explaining a product loop. A user creates a useful report, shares it with a teammate, and that teammate becomes a new active user. The team maps the loop from user value to an observable invitation and then to activation. They measure the percentage of activated users who share, the acceptance rate, and the time to the invitee's first useful action. Improving invitations alone did not help when onboarding obscured the report's value. The team first removed setup friction, then made sharing timely and optional. They watched retention by acquisition cohort and avoided optimizing raw invite counts. Small experiments were run with a clear stop condition and a rollback path. This example is fabricated solely for local software demonstrations and is not a real podcast transcript or quotation."
+  }
+]
